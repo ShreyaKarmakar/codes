@@ -13,7 +13,7 @@ class Solution {
             if(i<j){
                 
                 nums[i] = nums[j];   
-                i++;
+                // we are not swapping so j--;
                 j--;
             }
         }
