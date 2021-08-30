@@ -1,3 +1,5 @@
+// kadane's algo
+
 public class Solution {
     // DO NOT MODIFY THE ARGUMENTS WITH "final" PREFIX. IT IS READ ONLY
     int max=Integer.MIN_VALUE;
